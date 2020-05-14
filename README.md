@@ -1,7 +1,7 @@
 ## BMI-Calculator
 This App will show Users Body Mass Index according to the data provided by the User and it will show whether you are fit or not so that you can customize your training schedule.The app has been build using Flutter and Dart programming language.
-#Key Concepts learned while making the App:
-1.)How to use flutter theme and create own custom theme.
+Key Concepts learned while making the App:
+1)How to use flutter theme and create own custom theme. <br/>
 2.)How to create multi page app using Flutter Routes and Navigator.
 3.)How to use GestureDetector widget to detect more than just a tap.
 4.)How to use custom colour palettes by using Hex Code.
